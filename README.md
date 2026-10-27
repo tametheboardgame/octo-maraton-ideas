@@ -11,24 +11,24 @@ A home for our annual October film marathons: what we've watched, the daft ideas
 - [Plan and compare the 2027 candidates](planning/2027.md)
 - [Previous Octobers](archive/previous-marathons.md)
 - [How this works](docs/how-it-works.md)
+- [Pun names and future marathon ideas](ideas/name-bank.md)
 
 ## The marathons so far
 
 - **2024 — Bond-tober:** Every James Bond film.
 - **2025 — Alien & Predator:** The Alien and Predator films.
-- **2026 — Batman:** Every Batman film.
+- **2026 — Batober:** Every Batman film.
 
 These are theme records based on what we know, not reconstructed film-by-film watch logs. [More history and space for memories →](archive/previous-marathons.md)
 
 ## Ideas already in the pot for October 2027
 
-1. **[Box-office bomb bonanza](https://github.com/tametheboardgame/octo-maraton-ideas/issues/1)** — the biggest financial disasters in cinema; choose a watchable set rather than every title on an enormous list. [Starting list](https://en.wikipedia.org/wiki/List_of_biggest_box-office_bombs)
-2. **[The worst films of the 21st century](https://github.com/tametheboardgame/octo-maraton-ideas/issues/2)** — a curated selection of notorious critically panned films. [Starting list](https://en.wikipedia.org/wiki/List_of_21st-century_films_considered_the_worst)
-3. **[Transform-tober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/3)** — every Transformers feature film, including the animated films and spin-offs. Nine films in the October 2026 reference list; revisit before 2027.
+1. **[Floptober: box-office bombs](https://github.com/tametheboardgame/octo-maraton-ideas/issues/1)** — the biggest financial disasters in cinema; choose a watchable set rather than every title on an enormous list. [Starting list](https://en.wikipedia.org/wiki/List_of_biggest_box-office_bombs)
+2. **[Rotten-tober: the worst films of the 21st century](https://github.com/tametheboardgame/octo-maraton-ideas/issues/2)** — a curated selection of notorious critically panned films. [Starting list](https://en.wikipedia.org/wiki/List_of_21st-century_films_considered_the_worst)
+3. **[Transformtober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/3)** — every Transformers feature film, including the animated films and spin-offs. Nine films in the October 2026 reference list; revisit before 2027.
+4. **[Kurosawtober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/4)** — an Akira Kurosawa retrospective, either his full directing filmography or a curated selection of classics.
 
-4. **[Kurosawa-tober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/4)** — an Akira Kurosawa retrospective, either his full directing filmography or a curated selection of classics.
-
-**All four are ideas, not a final shortlist or a decision.** The [2027 planning page](planning/2027.md) is where we'll compare them later.
+**All four are ideas, not a final shortlist or a decision.** There is also a [bank of pun names and future themes](ideas/name-bank.md) for later Octobers. The [2027 planning page](planning/2027.md) is where we'll compare them later.
 
 ## One simple rule
 

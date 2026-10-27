@@ -4,11 +4,11 @@
 
 1. Hit **[Add a marathon idea](https://github.com/tametheboardgame/octo-maraton-ideas/issues/new?template=marathon-idea.yml)**.
 2. Put the franchise, theme or challenge in the title.
-3. Optionally paste a link or one-line explanation. Submit. That's it.
+3. Optionally paste a link or one-line explanation. Submit. That's it. A terrible October pun is encouraged, but optional.
 
 Ideas become GitHub Issues. Comment on an existing idea if you have a better film list, a joke name or a reason it might be unworkable. Avoid duplicate Issues where possible, but capturing the idea is more important than tidiness.
 
-Examples: 'All the Godzilla movies', '1990s disaster films', 'Every film starring Nicolas Cage', 'The ten costliest box-office bombs'.
+Examples: 'Godzilltober', 'Disastober', 'Cagetober', 'Floptober'. See the [name bank](../ideas/name-bank.md) for more. These are prompts, not commitments.
 
 ## In September: turn the inbox into a shortlist
 

@@ -24,11 +24,11 @@ Our October marathons began in 2024. This page records the agreed themes and lea
 - Best creature, biggest surprise, most ridiculous human decision.
 - Personal film rankings.
 
-## 2026 — Batman
+## 2026 — Batober
 
 **Theme:** Every Batman film  
 **Status:** Completed (as reported in October 2026)  
-**What we did:** A Batman-film October.
+**What we did:** Batober, a Batman-film October.
 
 **To add later:**
 - Exact watchlist and the scope of 'every' (live-action, animated, serials, etc.).
