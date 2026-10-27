@@ -1,0 +1,23 @@
+name: Octo-Marathon idea
+description: Quickly save a theme, franchise, or terrible film challenge for a future October.
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A title is enough. Add more only if you feel like it. We'll do the research when we create a shortlist.
+  - type: textarea
+    id: pitch
+    attributes:
+      label: Pitch or notes (optional)
+      description: Why would this be fun, awful, or both? Any scope preferences?
+      placeholder: "E.g. all the films in the series, preferably in release order."
+    validations:
+      required: false
+  - type: input
+    id: link
+    attributes:
+      label: Inspiration link (optional)
+      placeholder: "https://..."
+    validations:
+      required: false
