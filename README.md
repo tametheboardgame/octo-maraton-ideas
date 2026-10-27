@@ -26,7 +26,9 @@ These are theme records based on what we know, not reconstructed film-by-film wa
 2. **[The worst films of the 21st century](https://github.com/tametheboardgame/octo-maraton-ideas/issues/2)** — a curated selection of notorious critically panned films. [Starting list](https://en.wikipedia.org/wiki/List_of_21st-century_films_considered_the_worst)
 3. **[Transform-tober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/3)** — every Transformers feature film, including the animated films and spin-offs. Nine films in the October 2026 reference list; revisit before 2027.
 
-**All three are ideas, not a final shortlist or a decision.** The [2027 planning page](planning/2027.md) is where we'll compare them later.
+4. **[Kurosawa-tober](https://github.com/tametheboardgame/octo-maraton-ideas/issues/4)** — an Akira Kurosawa retrospective, either his full directing filmography or a curated selection of classics.
+
+**All four are ideas, not a final shortlist or a decision.** The [2027 planning page](planning/2027.md) is where we'll compare them later.
 
 ## One simple rule
 
