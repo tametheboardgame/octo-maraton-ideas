@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "id": "octo-marathon",
+  "title": "Octo-Marathon",
+  "description": "An archive and planning space for annual October film marathons, including Bond-tober, Alien and Predator, Batober, and ideas for future years.",
+  "type": "other",
+  "lifecycle": "active",
+  "categories": [
+    "projects",
+    "memory-lane"
+  ],
+  "tags": [
+    "film",
+    "marathon"
+  ],
+  "links": {
+    "repository": "https://github.com/tametheboardgame/octo-maraton-ideas"
+  },
+  "updates": {
+    "proposeMilestones": false
+  }
+}
