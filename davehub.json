@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "enabled": true,
+  "enabled": false,
   "id": "octo-marathon",
   "title": "Octo-Marathon",
   "description": "An archive and planning space for annual October film marathons, including Bond-tober, Alien and Predator, Batober, and ideas for future years.",
